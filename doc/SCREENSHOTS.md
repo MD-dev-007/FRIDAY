@@ -82,6 +82,18 @@ The interface is fully optimized for mobile devices with:
 4. **Use Pin Feature**: Pin important messages for quick future reference
 5. **Check Goals**: Use `FRIDAY: goals` command to see your tracked objectives
 
+## 🎬 Live Demo Video
+
+### App Walkthrough
+https://github.com/MD-dev-007/FRIDAY/assets/[ASSET-ID]/video_reference.mp4
+
+*Experience FRIDAY in action! This comprehensive demo video showcases:*
+- **🚀 App Launch**: Complete startup and interface overview
+- **💬 Chat Interface**: Real-time conversation with memory context
+- **🧠 Memory Management**: Pin, organize, and search through conversations
+- **⚙️ Settings Panel**: Personality customization and configuration
+- **📱 Mobile Experience**: Responsive design demonstration
+
 ## 🔧 Technical Details
 
 - **Framework**: Streamlit with custom CSS styling

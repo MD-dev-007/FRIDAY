@@ -91,7 +91,7 @@ ollama pull llama3
 ollama run llama3 "Hello FRIDAY"
 ```
 
-## 📱 Screenshots
+## 📱 Screenshots & Demo
 
 ### Main Interface
 ![FRIDAY Welcome Screen](doc/screenshot/Welcome.jpeg)
@@ -101,6 +101,11 @@ ollama run llama3 "Hello FRIDAY"
 ![Memory Analysis](doc/screenshot/memory-analysis-pannel.jpeg)
 ![Pin Functionality](doc/screenshot/pin-functionality.jpeg)
 ![Personality Settings](doc/screenshot/personality-setting.jpeg)
+
+### Live Demo Video
+https://github.com/MD-dev-007/FRIDAY/assets/[ASSET-ID]/video_reference.mp4
+
+*Watch FRIDAY in action! This demo video showcases the app's interface, memory management, and key features in real-time.*
 
 ## 🧠 Core Features
 
