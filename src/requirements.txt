@@ -1,0 +1,6 @@
+streamlit
+chromadb
+requests
+sentence-transformers
+pyyaml
+
