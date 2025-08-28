@@ -137,7 +137,7 @@ https://github.com/user-attachments/assets/e64ef41a-4f75-45b5-b615-d8a860456d8d
 ## 🏗️ Architecture
 
 ```
-FRIDAY ULTron/
+FRIDAY /
 ├── src/                    # Application source code
 │   ├── app.py             # Main Streamlit application
 │   ├── memory.py          # ChromaDB memory management
@@ -242,9 +242,7 @@ tone_weights:
 - **Mobile-first** responsive design for modern workflows
 - **Accessible** features with comprehensive documentation
 
-## 🤝 Contributing
 
-We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### Development Setup
 ```bash
@@ -268,7 +266,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **📧 Email**: deebakbalaji07@gmail.com
-- **🐛 Issues**: [GitHub Issues](https://github.com/MD-dev-007/FRIDAY/issues)
 - **📖 Documentation**: [Full Documentation](doc/)
 
 ---

@@ -1,12 +1,12 @@
-# FRIDAY ULTron - Screenshots & Visual Guide
+# FRIDAY  - Screenshots & Visual Guide
 
-This document provides a comprehensive visual guide to FRIDAY ULTron's interface and features through annotated screenshots.
+This document provides a comprehensive visual guide to FRIDAY 's interface and features through annotated screenshots.
 
 ## 📱 Main Interface
 
 ### Welcome Screen
 ![FRIDAY Welcome Screen](screenshot/Welcome.jpeg)
-*The main welcome interface of FRIDAY ULTron featuring:*
+*The main welcome interface of FRIDAY  featuring:*
 - **🤖 Glowing Title**: Animated title with pulsing underline effect
 - **🎨 AI-Themed Design**: Subtle gradient backgrounds and animated scanning lines
 - **📱 Responsive Layout**: Mobile-friendly interface with proper spacing
@@ -104,4 +104,4 @@ https://github.com/user-attachments/assets/e64ef41a-4f75-45b5-b615-d8a860456d8d
 
 ---
 
-*These screenshots showcase FRIDAY ULTron's modern, user-friendly interface designed for both casual users and power users who need advanced memory management capabilities.*
+*These screenshots showcase FRIDAY 's modern, user-friendly interface designed for both casual users and power users who need advanced memory management capabilities.*

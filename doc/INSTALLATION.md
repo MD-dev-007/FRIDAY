@@ -13,7 +13,7 @@
 ### Steps
 1) Open PowerShell in repo root
 ```powershell
-cd D:\AI\ULTron
+cd D:\AI\
 powershell -NoProfile -ExecutionPolicy Bypass -File .\setup.ps1
 ```
 2) In another terminal, start Ollama

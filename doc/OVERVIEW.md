@@ -1,6 +1,6 @@
-## FRIDAY ULTron — Overview and Approach
+## FRIDAY  — Overview and Approach
 
-FRIDAY ULTron is a private, on-device chat assistant for teams, powered by local LLMs via Ollama. It augments conversations with a compact, queryable memory (ChromaDB + Sentence Transformers) and an adaptive persona that tunes tone and structure to team sentiment. The Streamlit UI is optimized for responsiveness and mobile use, with AI-themed visual feedback.
+FRIDAY  is a private, on-device chat assistant for teams, powered by local LLMs via Ollama. It augments conversations with a compact, queryable memory (ChromaDB + Sentence Transformers) and an adaptive persona that tunes tone and structure to team sentiment. The Streamlit UI is optimized for responsiveness and mobile use, with AI-themed visual feedback.
 
 ### Approach
 - **Local-first privacy**: All inference runs through Ollama locally; no cloud calls by default.
@@ -18,7 +18,7 @@ FRIDAY ULTron is a private, on-device chat assistant for teams, powered by local
 
 ### Main Welcome Interface
 ![FRIDAY Welcome Screen](screenshot/Welcome.jpeg)
-*The main welcome interface of FRIDAY ULTron, showcasing the AI-themed design with glowing title, animated background effects, and the three main tabs: Chat, Memory Analysis, and Settings.*
+*The main welcome interface of FRIDAY , showcasing the AI-themed design with glowing title, animated background effects, and the three main tabs: Chat, Memory Analysis, and Settings.*
 
 ### Key Features Overview
 - **🤖 Chat Tab**: Main conversation interface with memory-augmented responses
