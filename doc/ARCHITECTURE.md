@@ -22,11 +22,11 @@
 ```mermaid
 graph TD
   A[Team Input] --> B[src/app.py]
-  B --> C[src/persona.py\n sentiment + prompt]
-  B --> D[src/memory.py\n retrieve]
+  B --> C[src/persona.py sentiment + prompt]
+  B --> D[src/memory.py retrieve]
   D -->|embeds| E[Sentence Transformers]
   D -->|persist| F[ChromaDB]
-  B --> G[src/llm_utils.py\n stream Ollama]
+  B --> G[src/llm_utils.py stream Ollama]
   G --> H[Ollama / llama3.1]
   H -->|tokens| B
   B -->|save useful| F

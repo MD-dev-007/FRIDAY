@@ -14,3 +14,14 @@ FRIDAY ULTron is a private, on-device chat assistant for teams, powered by local
 - **Lightweight embeddings**: `all-MiniLM-L6-v2` enables fast vector ops on CPUs.
 - **UI polish**: Subtle AI effects, glassmorphism, neon hovers, and mobile-friendly layout.
 
+## App Interface Screenshots
+
+### Main Welcome Interface
+![FRIDAY Welcome Screen](screenshot/Welcome.jpeg)
+*The main welcome interface of FRIDAY ULTron, showcasing the AI-themed design with glowing title, animated background effects, and the three main tabs: Chat, Memory Analysis, and Settings.*
+
+### Key Features Overview
+- **🤖 Chat Tab**: Main conversation interface with memory-augmented responses
+- **🧠 Memory Analysis**: Comprehensive memory inspection and management tools
+- **⚙️ Settings**: Personality and memory configuration options
+

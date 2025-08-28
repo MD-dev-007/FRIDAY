@@ -37,3 +37,15 @@ cd src
 streamlit run app.py --server.port 8501
 ```
 
+## App Configuration Screenshots
+
+### Personality Settings
+![Personality Configuration](screenshot/personality-setting.jpeg)
+*The personality settings panel showing customizable sliders for motivational tone, comedy level, and directness. Users can fine-tune FRIDAY's personality to match their preferred communication style and team dynamics.*
+
+### Customization Options
+- **🎭 Motivational Slider**: Adjust how encouraging and motivational FRIDAY should be
+- **😄 Comedy Slider**: Control the level of humor and casual tone
+- **🎯 Directness Slider**: Set how straightforward and professional the responses should be
+- **💾 Save Preferences**: All settings are automatically saved and persist across sessions
+
