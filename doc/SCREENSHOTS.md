@@ -85,7 +85,7 @@ The interface is fully optimized for mobile devices with:
 ## 🎬 Live Demo Video
 
 ### App Walkthrough
-https://github.com/MD-dev-007/FRIDAY/assets/[ASSET-ID]/video_reference.mp4
+https://github.com/user-attachments/assets/e64ef41a-4f75-45b5-b615-d8a860456d8d
 
 *Experience FRIDAY in action! This comprehensive demo video showcases:*
 - **🚀 App Launch**: Complete startup and interface overview

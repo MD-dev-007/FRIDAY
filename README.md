@@ -103,7 +103,7 @@ ollama run llama3 "Hello FRIDAY"
 ![Personality Settings](doc/screenshot/personality-setting.jpeg)
 
 ### Live Demo Video
-https://github.com/MD-dev-007/FRIDAY/assets/[ASSET-ID]/video_reference.mp4
+https://github.com/user-attachments/assets/e64ef41a-4f75-45b5-b615-d8a860456d8d
 
 *Watch FRIDAY in action! This demo video showcases the app's interface, memory management, and key features in real-time.*
 

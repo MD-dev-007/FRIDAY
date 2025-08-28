@@ -26,7 +26,7 @@ FRIDAY ULTron is a private, on-device chat assistant for teams, powered by local
 - **⚙️ Settings**: Personality and memory configuration options
 
 ### Live Demo
-https://github.com/MD-dev-007/FRIDAY/assets/[ASSET-ID]/video_reference.mp4
+https://github.com/user-attachments/assets/e64ef41a-4f75-45b5-b615-d8a860456d8d
 
 *Watch FRIDAY in action! This demo video provides a comprehensive walkthrough of all features and capabilities.*
 
